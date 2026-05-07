@@ -74,10 +74,9 @@ _We are a two‑person powerhouse — every vulnerability is found, analyzed, an
 
 | CVE ID | Severity | Product | Date |
 |--------|----------|---------|------|
-| CVE‑2026‑10892 | 🔴 Critical (9.8) | Android Binder | Mar 2026 |
-| CVE‑2026‑22110 | 🟠 High (7.5) | IoT Camera OS | Feb 2026 |
-| CVE‑2025‑87564 | 🟡 Medium (5.4) | Web Dashboard API | Dec 2025 |
-
+| CVE-2025-50681  | 🟡 Medium (5.4) | igmpproxy  |  12/19/2025  |
+| CVE-2025-63757 | 🟠 High (7.5) |FFMPEG |  12/18/2025 |
+|  CVE-2026-3291 | 🟡 Medium (6.9)| Samsung Print Service Plugin |  05/06/2026|
 _See the full list in the [advisories](https://github.com/ReverseForge/advisories) repo._
 
 ---
