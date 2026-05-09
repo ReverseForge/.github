@@ -55,7 +55,7 @@ ReverseForge adheres to a strict **Coordinated Vulnerability Disclosure** proces
 3.  **Remediation:** We provide technical assistance and validate patches.
 4.  **Publication:** The final writeup is released to this GitHub organization for the benefit of the global security community.
 
-➡️ **Read our full policy: [SECURITY.md](https://github.com/ReverseForge/.github/blob/main/SECURITY.md)**
+➡️ **Read our full policy: [SECURITY.md](https://github.com/ReverseForge/.github/blob/main/profile/SECURITY.md)**
 
 ## ⚒️ The Forge Arsenal
 
