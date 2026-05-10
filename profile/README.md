@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="URL_LOGO_YOUR_TEAM" alt="ReverseForge Logo" width="200"/>
+  <img src="https://github.com/ReverseForge/.github/blob/main/profile/assets/ReverseForge-logo-1.jpg" width="1000"/>
 </p>
 
 <h1 align="center">⚒️ ReverseForge</h1>
@@ -34,7 +34,7 @@ We are two engineers operating as a single, precision-focused research unit. No 
 
 <div align="center">
 
-| <img src="https://github.com/your_username.png" width="120" style="border-radius:50%" /> | <img src="https://github.com/friend_username.png" width="120" style="border-radius:50%" /> |
+| <img src="https://avatars.githubusercontent.com/u/70381337?v=4" width="120" style="border-radius:50%" /> | <img src="https://avatars.githubusercontent.com/u/92441512?v=4" width="120" style="border-radius:50%" /> |
 |:--:|:--:|
 | **Mehrdoost**<br>Co‑Founder | **Mi0r4**<br>Co‑Founder|
 | [@Mehrdoost](https://github.com/Mehrdoost) | [@miora-sora](https://github.com/miora-sora) |
