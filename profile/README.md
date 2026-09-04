@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:team@reverseforge.dev"><img src="https://img.shields.io/badge/Contact-team%40reverseforge.dev-blue?style=flat-square&logo=gmail"></a>
-  <a href="https://twitter.com/ReverseForge"><img src="https://img.shields.io/twitter/follow/ReverseForge?style=social" alt="Twitter Follow"></a>
+ <a href="mailto:!"><img src="https://img.shields.io/badge/Contact-team%40reverseforge.dev-blue?style=flat-square&logo=gmail"></a>
+ <a href="https://twitter.com/ReverseForge"><img src="https://img.shields.io/twitter/follow/ReverseForge?style=social" alt="Twitter Follow"></a>
 </p>
 
 ---
